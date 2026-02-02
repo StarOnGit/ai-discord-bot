@@ -7,6 +7,9 @@ import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+console.log('XAI Key loaded:', process.env.XAI_API_KEY ? 'Yes (starts with ' + process.env.XAI_API_KEY.substring(0, 4) + '...)' : 'NO KEY FOUND');
+console.log('GROQ Key loaded:', process.env.GROQ_API_KEY ? 'Yes' : 'NO KEY FOUND');
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config({ path: path.join(__dirname, '.env') });
 
