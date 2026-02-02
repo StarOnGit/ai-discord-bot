@@ -1,0 +1,65 @@
+{
+  "1438954374926696562": {
+    "enabled": true,
+    "xpPerMessage": 15,
+    "xpCooldown": 60000,
+    "levelUpMessage": true,
+    "levelUpChannel": "1467544890924732426",
+    "announceLevelUp": true,
+    "xpMultiplier": 1,
+    "noXpRoles": [],
+    "noXpChannels": [],
+    "roleRewards": {},
+    "mentionOnLevelUp": true
+  },
+  "1417504321691713568": {
+    "enabled": true,
+    "xpPerMessage": 15,
+    "xpCooldown": 60000,
+    "levelUpMessage": true,
+    "levelUpChannel": null,
+    "announceLevelUp": true,
+    "xpMultiplier": 1,
+    "noXpRoles": [],
+    "noXpChannels": [],
+    "roleRewards": {}
+  },
+  "1453361141236629546": {
+    "enabled": true,
+    "xpPerMessage": 15,
+    "xpCooldown": 60000,
+    "levelUpMessage": true,
+    "levelUpChannel": null,
+    "announceLevelUp": true,
+    "xpMultiplier": 1,
+    "noXpRoles": [],
+    "noXpChannels": [],
+    "roleRewards": {}
+  },
+  "1426610566507659357": {
+    "enabled": true,
+    "xpPerMessage": 15,
+    "xpCooldown": 60000,
+    "levelUpMessage": true,
+    "levelUpChannel": null,
+    "announceLevelUp": true,
+    "mentionOnLevelUp": true,
+    "xpMultiplier": 1,
+    "noXpRoles": [],
+    "noXpChannels": [],
+    "roleRewards": {},
+    "xpBoosts": {
+      "longMessage": 10,
+      "sticker": 5,
+      "reply": 3,
+      "attachment": 5,
+      "voice": 2
+    },
+    "levelFormula": {
+      "type": "default",
+      "baseXP": 100,
+      "multiplier": 50,
+      "exponent": 2
+    }
+  }
+}

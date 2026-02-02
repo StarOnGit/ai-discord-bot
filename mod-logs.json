@@ -1,0 +1,61 @@
+{
+  "1438954374926696562": [
+    {
+      "action": "warn",
+      "userId": "1375346004626243645",
+      "moderatorId": "627789575921729536",
+      "reason": "gay",
+      "warningCount": 1,
+      "timestamp": 1769879037232
+    },
+    {
+      "action": "warn",
+      "userId": "1418849296811298846",
+      "moderatorId": "837644260559421510",
+      "reason": "test",
+      "warningCount": 1,
+      "timestamp": 1769937113200
+    },
+    {
+      "action": "warn",
+      "userId": "1418849296811298846",
+      "moderatorId": "837644260559421510",
+      "reason": "testinf",
+      "warningCount": 2,
+      "timestamp": 1769937134452
+    },
+    {
+      "action": "mute",
+      "userId": "1412653129534672927",
+      "moderatorId": "837644260559421510",
+      "reason": "testing",
+      "duration": 10000,
+      "timestamp": 1769937249764
+    },
+    {
+      "action": "warn",
+      "userId": "627789575921729536",
+      "moderatorId": "1300056401976102916",
+      "reason": "testing",
+      "warningCount": 1,
+      "timestamp": 1769937251524
+    },
+    {
+      "action": "mute",
+      "userId": "1412653129534672927",
+      "moderatorId": "1300056401976102916",
+      "reason": "No reason provided",
+      "duration": 10000,
+      "timestamp": 1769937311333
+    },
+    {
+      "action": "warn",
+      "userId": "1017470870396092496",
+      "moderatorId": "627789575921729536",
+      "reason": "too cute",
+      "warningCount": 1,
+      "expiresIn": "1 day",
+      "timestamp": 1769939633036
+    }
+  ]
+}

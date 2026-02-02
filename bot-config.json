@@ -1,0 +1,103 @@
+{
+  "1438954374926696562": {
+    "enabled": true,
+    "language": "english",
+    "requiredKeyword": null,
+    "blockedRoles": [],
+    "adminRoles": [],
+    "ownerOnlyMode": true,
+    "personality": "normal",
+    "profanityFilter": true,
+    "passwordProtected": false,
+    "password": null,
+    "roleRestriction": {
+      "enabled": false,
+      "mode": "blacklist",
+      "allowedRoles": [],
+      "blockedRoles": [
+        "1445335900660695152"
+      ]
+    },
+    "channelRestriction": {
+      "enabled": false,
+      "allowedChannels": [
+        "1466479084417847442"
+      ],
+      "blockedChannels": [
+        "1444387754698866909"
+      ]
+    }
+  },
+  "1417504321691713568": {
+    "enabled": true,
+    "language": "english",
+    "personality": "normal",
+    "requiredKeyword": null,
+    "passwordProtected": false,
+    "password": null,
+    "blockedRoles": [],
+    "adminRoles": [],
+    "ownerOnlyMode": false,
+    "nsfwFilter": true,
+    "profanityFilter": true,
+    "roleRestriction": {
+      "enabled": false,
+      "mode": "blacklist",
+      "allowedRoles": [],
+      "blockedRoles": []
+    },
+    "channelRestriction": {
+      "enabled": false,
+      "allowedChannels": [],
+      "blockedChannels": []
+    }
+  },
+  "1426610566507659357": {
+    "enabled": true,
+    "language": "english",
+    "personality": "normal",
+    "requiredKeyword": null,
+    "passwordProtected": false,
+    "password": null,
+    "blockedRoles": [],
+    "adminRoles": [],
+    "ownerOnlyMode": false,
+    "nsfwFilter": true,
+    "profanityFilter": true,
+    "roleRestriction": {
+      "enabled": false,
+      "mode": "blacklist",
+      "allowedRoles": [],
+      "blockedRoles": []
+    },
+    "channelRestriction": {
+      "enabled": false,
+      "allowedChannels": [],
+      "blockedChannels": []
+    }
+  },
+  "1453361141236629546": {
+    "enabled": true,
+    "language": "english",
+    "personality": "normal",
+    "requiredKeyword": null,
+    "passwordProtected": false,
+    "password": null,
+    "blockedRoles": [],
+    "adminRoles": [],
+    "ownerOnlyMode": false,
+    "nsfwFilter": true,
+    "profanityFilter": true,
+    "roleRestriction": {
+      "enabled": false,
+      "mode": "blacklist",
+      "allowedRoles": [],
+      "blockedRoles": []
+    },
+    "channelRestriction": {
+      "enabled": false,
+      "allowedChannels": [],
+      "blockedChannels": []
+    }
+  }
+}
