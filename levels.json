@@ -1,18 +1,18 @@
 {
   "1438954374926696562": {
     "627789575921729536": {
-      "xp": 105,
+      "xp": 204,
       "level": 4,
-      "totalXp": 875,
-      "lastXpGain": 1770031210790,
-      "messageCount": 54
+      "totalXp": 974,
+      "lastXpGain": 1770037637778,
+      "messageCount": 60
     },
     "1353245240785506434": {
-      "xp": 150,
+      "xp": 186,
       "level": 2,
-      "totalXp": 405,
-      "lastXpGain": 1769973371848,
-      "messageCount": 25
+      "totalXp": 441,
+      "lastXpGain": 1770037477524,
+      "messageCount": 27
     },
     "1017470870396092496": {
       "xp": 111,
@@ -36,18 +36,18 @@
       "messageCount": 17
     },
     "1412653129534672927": {
-      "xp": 95,
+      "xp": 110,
       "level": 1,
-      "totalXp": 195,
-      "lastXpGain": 1769959822683,
-      "messageCount": 13
+      "totalXp": 210,
+      "lastXpGain": 1770032794081,
+      "messageCount": 14
     },
     "1300056401976102916": {
-      "xp": 80,
+      "xp": 134,
       "level": 1,
-      "totalXp": 180,
-      "lastXpGain": 1769967580414,
-      "messageCount": 11
+      "totalXp": 234,
+      "lastXpGain": 1770037675576,
+      "messageCount": 14
     },
     "1408841422928482355": {
       "xp": 23,
@@ -64,18 +64,18 @@
       "messageCount": 5
     },
     "885023669963857930": {
-      "xp": 116,
-      "level": 1,
-      "totalXp": 216,
-      "lastXpGain": 1769959821054,
-      "messageCount": 14
+      "xp": 9,
+      "level": 2,
+      "totalXp": 264,
+      "lastXpGain": 1770037667043,
+      "messageCount": 17
     },
     "1273201868713103414": {
-      "xp": 110,
+      "xp": 125,
       "level": 1,
-      "totalXp": 210,
-      "lastXpGain": 1769959801890,
-      "messageCount": 14
+      "totalXp": 225,
+      "lastXpGain": 1770036045035,
+      "messageCount": 15
     },
     "762697542810599465": {
       "xp": 38,
@@ -85,11 +85,11 @@
       "messageCount": 9
     },
     "901332796889522196": {
-      "xp": 35,
+      "xp": 86,
       "level": 1,
-      "totalXp": 135,
-      "lastXpGain": 1769962266838,
-      "messageCount": 9
+      "totalXp": 186,
+      "lastXpGain": 1770037678686,
+      "messageCount": 12
     },
     "1377697892701044777": {
       "xp": 30,
@@ -134,11 +134,11 @@
       "messageCount": 4
     },
     "1262434536013303911": {
-      "xp": 99,
+      "xp": 171,
       "level": 2,
-      "totalXp": 354,
-      "lastXpGain": 1769973595530,
-      "messageCount": 21
+      "totalXp": 426,
+      "lastXpGain": 1770037652898,
+      "messageCount": 25
     },
     "863002905975980032": {
       "xp": 3,
@@ -148,11 +148,11 @@
       "messageCount": 6
     },
     "1441722609313251420": {
-      "xp": 63,
+      "xp": 93,
       "level": 0,
-      "totalXp": 63,
-      "lastXpGain": 1769971339483,
-      "messageCount": 4
+      "totalXp": 93,
+      "lastXpGain": 1770037626152,
+      "messageCount": 6
     },
     "429080796754739201": {
       "xp": 76,
@@ -183,11 +183,11 @@
       "messageCount": 14
     },
     "837644260559421510": {
-      "xp": 200,
-      "level": 2,
-      "totalXp": 455,
-      "lastXpGain": 1769975895197,
-      "messageCount": 26
+      "xp": 18,
+      "level": 3,
+      "totalXp": 493,
+      "lastXpGain": 1770036102013,
+      "messageCount": 28
     },
     "980851091300319323": {
       "xp": 20,
@@ -236,6 +236,27 @@
       "level": 0,
       "totalXp": 18,
       "lastXpGain": 1770031305824,
+      "messageCount": 1
+    },
+    "1421911176450670703": {
+      "xp": 18,
+      "level": 0,
+      "totalXp": 18,
+      "lastXpGain": 1770037493476,
+      "messageCount": 1
+    },
+    "923540528463745094": {
+      "xp": 18,
+      "level": 0,
+      "totalXp": 18,
+      "lastXpGain": 1770037525898,
+      "messageCount": 1
+    },
+    "1410560571899646023": {
+      "xp": 18,
+      "level": 0,
+      "totalXp": 18,
+      "lastXpGain": 1770037590717,
       "messageCount": 1
     }
   },

@@ -5,7 +5,7 @@
     "requiredKeyword": null,
     "blockedRoles": [],
     "adminRoles": [],
-    "ownerOnlyMode": true,
+    "ownerOnlyMode": false,
     "personality": "normal",
     "profanityFilter": true,
     "passwordProtected": false,

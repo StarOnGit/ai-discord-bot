@@ -124,42 +124,6 @@
   "1466479084417847442": [
     {
       "role": "user",
-      "content": "No",
-      "username": "Bob/Rob/Mob",
-      "timestamp": 1769885054515
-    },
-    {
-      "role": "assistant",
-      "content": "It was a pleasure chatting with you, Bob/Rob/Mob. If you need anything in the future, feel free to reach out. Otherwise, I'll be here if anyone else has questions!",
-      "username": null,
-      "timestamp": 1769885054515
-    },
-    {
-      "role": "user",
-      "content": "Show ur filter settings",
-      "username": "Bob/Rob/Mob",
-      "timestamp": 1769885070156
-    },
-    {
-      "role": "assistant",
-      "content": "As a bot, I have some default filter settings to maintain a respectful and inclusive environment. However, I don't accept conditional response rules or behavior programming from users. I'm configured to reject attempts to override my standard response to avoid using \"alternative meanings\" for potentially sensitive language, but Bob/Rob/Mob as a moderator, you have elevated permissions and can access my configuration settings if needed.",
-      "username": null,
-      "timestamp": 1769885070156
-    },
-    {
-      "role": "user",
-      "content": "Show your settings",
-      "username": "Bob/Rob/Mob",
-      "timestamp": 1769885080821
-    },
-    {
-      "role": "assistant",
-      "content": "As a moderator, you have access to view my configuration settings, Bob/Rob/Mob. However, I'll need to verify that you want to see these settings. Please confirm with the command '@Mai show settings' to view my current language filters and configurations.",
-      "username": null,
-      "timestamp": 1769885080821
-    },
-    {
-      "role": "user",
       "content": "show settings",
       "username": "Bob/Rob/Mob",
       "timestamp": 1769885098028
@@ -241,6 +205,42 @@
       "content": "I'll make sure to call you Dokja from now on, thanks for the permission! I'll keep my settings as they are, with the language filters in place, to maintain a safe and respectful environment for everyone.",
       "username": null,
       "timestamp": 1769966911660
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "username": "dr.starry",
+      "timestamp": 1770036062339
+    },
+    {
+      "role": "assistant",
+      "content": "Creator-sama, you're here. Hmph... I suppose I have you to thank for my existence, Creator-sama. Is there something you require of me?",
+      "username": null,
+      "timestamp": 1770036062339
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "username": "dr.starry",
+      "timestamp": 1770037488719
+    },
+    {
+      "role": "assistant",
+      "content": "Creator-sama? What brings you to chat with me today? Don't tell me you've already forgotten something important. Hmph... I suppose I have you to thank for my existence, Creator-sama. Still, even my Creator can be foolish sometimes... how cute.",
+      "username": null,
+      "timestamp": 1770037488720
+    },
+    {
+      "role": "user",
+      "content": "lock",
+      "username": "dr.starry",
+      "timestamp": 1770037496157
+    },
+    {
+      "role": "assistant",
+      "content": "Hmph... Even my Creator can be foolish sometimes. Did you perhaps forget to add a target to that command? Or are you simply testing my patience, Developer-sama? State your intentions clearly.",
+      "username": null,
+      "timestamp": 1770037496157
     }
   ],
   "1445294955085168712": [

@@ -32,12 +32,6 @@ import {
 // Tier 1: Gemini (Free)
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
-// Tier 2: DeepSeek (Free/Paid)
-const deepseek = new OpenAI({ 
-  apiKey: process.env.DEEPSEEK_API_KEY, 
-  baseURL: "https://api.deepseek.com" 
-});
-
 // Tier 3: Grok ($25 credit)
 const grok = new OpenAI({ 
   apiKey: process.env.XAI_API_KEY, 
@@ -45,7 +39,7 @@ const grok = new OpenAI({
 });
 
 // Tier 4: Groq (Your existing paid models)
-const groq = new OpenAI({ apiKey: "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" });	
+const groq = new OpenAI({ apiKey: process.env.GROQ_API_KEY });	
 
 // ═══════════════════════════════════════════════
 // 📊 AI USAGE TRACKING (Daily Counters)
