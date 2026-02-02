@@ -41,6 +41,7 @@ const commands = [
           { name: 'Southern', value: 'southern' },
           { name: 'Aussie', value: 'aussie' },
           { name: 'Roast', value: 'roast' },
+          { name: 'ChatGayPT', value: 'chatgaypt' },
         ],
       },
     ],

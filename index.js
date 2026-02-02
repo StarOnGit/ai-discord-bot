@@ -32,12 +32,6 @@ import {
 // Tier 1: Gemini (Free)
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
-// Tier 3: Grok ($25 credit)
-const grok = new OpenAI({ 
-  apiKey: process.env.XAI_API_KEY, 
-  baseURL: "https://api.xai/v1" 
-});
-
 // Tier 4: Groq (Your existing paid models)
 const groq = new OpenAI({ apiKey: process.env.GROQ_API_KEY });	
 
