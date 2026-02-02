@@ -10,7 +10,7 @@ const token = process.env.DISCORD_TOKEN;
 const clientId = process.env.CLIENT_ID;
 
 // Set this to a specific guild ID for instant testing, or leave null for global
-const 1438954374926696562 = null; // Change to '1438954374926696562' for instant testing
+const testGuildId = '1438954374926696562'; // Your test server
 
 const commands = [
     {
